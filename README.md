@@ -1,6 +1,6 @@
-# Fine-Tuned LLM Evaluation — Learning Notebook
+# LLMs from scratch — Learning Notebook
 
-A personal study notebook documenting my journey of learning how LLMs work — from building a GPT model from scratch to fine-tuning it and evaluating its outputs.
+A personal study notebook documenting my journey of learning how LLMs work, from building a GPT model from scratch to fine-tuning it and evaluating its outputs.
 
 ---
 
